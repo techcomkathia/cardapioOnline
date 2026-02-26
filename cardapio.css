@@ -11,7 +11,8 @@
 body{
     font-family: 'Roboto Mono', monospace;
     background-image: url('./imagensCompactadas/imagens/bg.png');
-    color: #ffff;
+    color: #e3e0e0;
+    
 }
 
 header{
