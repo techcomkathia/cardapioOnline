@@ -72,4 +72,10 @@ h2{
     color: #ffff;
 }
 
+.btn:hover{
+    background-color: #feae00;
+    cursor: pointer;
+    font-weight: bolder;
+}
+
 
